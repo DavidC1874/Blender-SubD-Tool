@@ -2,7 +2,7 @@ bl_info = {
     "name":"SubD Adder",
     "author":"David Cai",
     "version":(1,0),
-    "blender":(2,9,0),
+    "blender":(2,90,0),
     "location":"View 3D > Tool Shelf",
     "category":"Tool",
 }
