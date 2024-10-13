@@ -1,5 +1,5 @@
 bl_info = {
-    "name":"Object Adder",
+    "name":"SubD Adder",
     "author":"David Cai",
     "version":(1,0),
     "blender":(2,9,0),
